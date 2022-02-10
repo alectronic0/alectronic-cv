@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@hmcts/nodejs-healthcheck": "^1.4.3",
-    "@hmcts/nodejs-logging": "^1.4.2",
+    "@hmcts/nodejs-logging": "^3.0.0",
     "body-parser": "^1.18.2",
     "config": "^1.28.1",
     "cookie-parser": "^1.4.3",
